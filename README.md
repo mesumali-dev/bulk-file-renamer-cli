@@ -1,4 +1,4 @@
-# 🏷️ Bulk File Renamer — Batch File Renaming Utility
+# 🏷️ Bulk File Renamer | Batch File Renaming Utility
 
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue?style=flat-square&logo=python)](https://python.org)
 [![Streamlit](https://img.shields.io/badge/Streamlit-Tool-FF4B4B?style=flat-square&logo=streamlit)](https://streamlit.io/)
@@ -28,4 +28,4 @@ streamlit run app.py
 ---
 
 ## 👨‍💻 Author
-**Syed Mesum Ali** — [@mesumali-dev](https://github.com/mesumali-dev)
+**Syed Mesum Ali** - [@mesumali-dev](https://github.com/mesumali-dev)
